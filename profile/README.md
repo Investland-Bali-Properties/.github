@@ -40,3 +40,7 @@ We take pride in providing our clients with a comfortable **full service**. We s
 * Property Management
 * Bali Real Estate
 * Invest in Bali
+
+---
+
+**NOTE:** For someone who wants commit their change or create repo, please read our guideness first at [Developer-Handbook](https://github.com/Investland-Bali-Properties/developer-handbook/tree/main)
